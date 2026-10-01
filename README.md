@@ -186,6 +186,11 @@ tests/test_data_quality.py ....                                          [100%]
 ```powershell
 streamlit run app.py
 ```
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/6f43ed2c-ef71-4c00-976c-5c95f94668a9" />
+<img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/2d0b67f1-823e-4a95-be1a-881e901577da" />
+<img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/d608af7a-551c-4584-b211-04aa0d7f8a98" />
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/3a354a58-d670-436e-a759-1f2116d06b72" />
+
 Open `http://localhost:8501` in your browser[cite: 26, 28]. Use the sidebar to toggle between:
 * **Counterfactual Simulation Mode (ExP Demo):** Demonstrates treatment injection, CUPED adjustments, and guardrail tripwires across 50,000 users[cite: 7, 10, 14].
 * **Raw BigQuery Export (A/A Audit):** Validates nominal Type I error calibration ($p > 0.05$) on unmodified historical warehouse data[cite: 6, 7, 10, 14].
